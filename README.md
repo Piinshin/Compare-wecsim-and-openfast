@@ -7,7 +7,7 @@ This homework task involves plotting and comparing the numerical models of a flo
 - **Floating Platform**: UMaine 15MW semi-submersible reference floating platform  
 
 
-##**環境參數設定**
+## **環境參數設定**
 -**Wind**: Mean wind speed = 15 m/w, steady wind
 -**Wave**: T = 12s, H = 4m, Regular wave
 -**Water Depth**: 200m 
