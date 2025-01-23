@@ -6,7 +6,7 @@ This homework task involves plotting and comparing the numerical models of a flo
 - **Wind Turbine**: IEA 15MW reference turbine  
 - **Floating Platform**: UMaine 15MW semi-submersible reference floating platform  
 
---
+
 ##**環境參數設定**
 -**Wind**: Mean wind speed = 15 m/w, steady wind
 -**Wave**: T = 12s, H = 4m, Regular wave
@@ -14,7 +14,7 @@ This homework task involves plotting and comparing the numerical models of a flo
 -**Initial position**: (0, 0, 0_)
 -Run for 300s,Dt= 0.125,  Wave Dt=0.25s
 
---
+
 ## 更新文件-檔案上傳要求
 （for MRE group) 如果有檔案更新，請上傳至 **Output** 資料夾。
 - 使用 **OpenFAST** 上傳 `.out` 檔案。
