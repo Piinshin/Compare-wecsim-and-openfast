@@ -12,7 +12,7 @@ This homework task involves plotting and comparing the numerical models of a flo
 - **Wave**: T=12s, H=4m, Regular wave
 - **Water Depth**: 200m 
 - **Initial position**: (0, 0, 0)
-- Run for 300s,Dt= 0.125,  Wave Dt=0.25s
+- Run for 300s, Dt= 0.125,  Wave Dt=0.25s
 
 
 ## 更新文件-檔案上傳要求
