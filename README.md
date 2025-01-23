@@ -1,5 +1,7 @@
 # MRE Group Homework - January 2025
-This homework task involves plotting and comparing the numerical models of a floating offshore wind turbine system (FOWT).
+This homework task involves plotting and comparing the numerical models of a floating offshore wind turbine system (FOWT). \\
+Please take a look at the** .ipynb** file to see the result.\\
+Please upload your output file in **Output** folder. See the guidelines and rules below.
 
 ## **System Details**
 - **Numerical Models**: OpenFAST, WEC-Sim  
